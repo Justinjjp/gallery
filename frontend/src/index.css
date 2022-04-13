@@ -28,13 +28,13 @@ header a{
 }
 
 .product{
-  border: 1px #d2d2d2 solid;
+  border: 1px #00ff04 solid;
   margin: 1rem;
 }
 .product img{
   width: 100%;
   max-width: 400px;
 } 
-.profuctInfo{
+.productInfo{
   padding: 1rem;
 }
