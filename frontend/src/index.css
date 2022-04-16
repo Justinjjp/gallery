@@ -5,22 +5,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #555555;
+}
+.site-container{
+  min-height: 100vh;
 }
 main{
-  color: #e0e0e0;
-  padding: 1rem;
+  color: #000000;
+  flex: 1;
 }
 
-header{
-  background-color:#111111;
-  padding: 1rem;
-}
-header a{
-  color: #fff;
-  text-decoration: none;
-  font-weight: bold;
-}
 .products{
   display: flex;
   flex-wrap: wrap;
