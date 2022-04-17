@@ -30,7 +30,7 @@ const data = {
       category: 'Art Work',
       image: '/images/p3.jpg',
       price: 100,
-      countInStock: 12,
+      countInStock: 0,
       author: 'John',
       rating: 3.5,
       numReviews: 10,
