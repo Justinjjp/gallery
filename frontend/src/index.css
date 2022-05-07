@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #afadad;
+  background-color: #bfbfbf;
 }
 .site-container{
   min-height: 100vh;
@@ -42,4 +42,15 @@ main{
 }
 .img-large{
   max-width: 100%;
+}
+
+.img-large:hover{
+  box-shadow:0.25em 0.25em 0.75em #ffffff,
+  0.125em 0.125em .25em #00000026;
+}
+.card-text{
+  background: linear-gradient(45deg, white, #16e06a);
+}
+.img-thumbnail {
+  height: 80px;
 }

@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      _id: '1',
       name: 'Race Car',
       slug: 'race-car',
       category: 'Art Work',
@@ -13,6 +14,7 @@ const data = {
       description: 'High quality images',
     },
     {
+      _id: '2',
       name: 'Montel ',
       slug: 'montel',
       category: 'Art Work',
@@ -25,6 +27,7 @@ const data = {
       description: 'High quality images',
     },
     {
+      _id: '3',
       name: 'Skulls',
       slug: 'skulls',
       category: 'Art Work',
@@ -37,6 +40,7 @@ const data = {
       description: 'High quality images',
     },
     {
+      _id: '4',
       name: 'DJ Wolf ',
       slug: 'dj-wolf',
       category: 'Art Work',
@@ -49,6 +53,7 @@ const data = {
       description: 'High quality images',
     },
     {
+      _id: '5',
       name: 'Motercycle Life',
       slug: 'motercycle-life',
       category: 'Art Work',
@@ -61,6 +66,8 @@ const data = {
       description: 'High quality images',
     },
     {
+      
+      _id: '6',
       name: 'Dodge challanger',
       slug: 'dodge-challanger',
       category: 'Art Work',
